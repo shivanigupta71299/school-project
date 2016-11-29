@@ -1,2 +1,2 @@
 # school-project
-sales management project in c++
+sales management project and sudoko game in c++
